@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GlDrawer">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgQAAAAAAAgAAAACAAAAAAAAAAAQAAAIAAAEAAAA=</HashCode>
+      <FileName>gl_painter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleFunctionContainer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAAAAAAEAAEICABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>single_func_container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharTypes">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQAAADAAIAAAAEBAAAIAABAAAEEAAA=</HashCode>
+      <FileName>parser_char_types.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionParser">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAANARAEAAAAAABAAABgCAIJIEABAEACAADAgQ=</HashCode>
+      <FileName>parser_equation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuncTable">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAoEQQAAAQACgAAAAoEACAAAIAQAACABAgQABAggA=</HashCode>
+      <FileName>dlg_func_table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DlgMsgProcessor">
+    <Position X="15.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAwAAAAEAQAAUAAAAAAAAQAAoAAAAAAAAJAAAA=</HashCode>
+      <FileName>dlg_msg_processor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FunctionDialog">
+    <Position X="17.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>dlg_function_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FuncCell">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAAAAAAAEEAAAAAAAgAAgA=</HashCode>
+      <FileName>dlg_func_table.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
